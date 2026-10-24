@@ -1,0 +1,11 @@
+,LinearSVC,LinearSVC (class_weight=balanced),LogReg (oficiálny baseline)
+hazard-category (macro-F1),0.663428,0.679045,0.515304
+hazard-category (micro-F1),0.835398,0.821239,0.807080
+product-category (macro-F1),0.645524,0.726922,0.464977
+product-category (micro-F1),0.739823,0.741593,0.647788
+hazard (macro-F1),0.475360,0.410362,0.199710
+hazard (micro-F1),0.658407,0.626549,0.580531
+product (macro-F1),0.281047,0.232118,0.121916
+product (micro-F1),0.488496,0.426549,0.313274
+S podúloha 1,0.677633,0.694462,0.497701
+S podúloha 2,0.408885,0.354852,0.183174

@@ -1,0 +1,7 @@
+model,metrika,hodnota,95 % CI od,95 % CI do
+LinearSVC,S podúloha 1,0.674282,0.624315,0.743739
+LinearSVC,S podúloha 2,0.374509,0.348600,0.406616
+LinearSVC (class_weight=balanced),S podúloha 1,0.657354,0.612864,0.725212
+LinearSVC (class_weight=balanced),S podúloha 2,0.351143,0.320136,0.371079
+LogReg (oficiálny baseline),S podúloha 1,0.482947,0.451360,0.560865
+LogReg (oficiálny baseline),S podúloha 2,0.129362,0.136266,0.166174

@@ -1,0 +1,4 @@
+,hazard-category,product-category,hazard,product
+LinearSVC,0,0,0,0
+LinearSVC (class_weight=balanced),0,0,0,0
+LogReg (oficiálny baseline),0,0,0,0
